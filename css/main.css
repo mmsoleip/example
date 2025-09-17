@@ -1362,6 +1362,10 @@ section,
   margin-bottom: 0;
   font-size: 14px;
 }
+.contact .info-item  img {
+  width: 150px;
+  height: 150px;
+}
 
 .contact .info-item:hover i {
   background: var(--accent-color);
